@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NXqA825MAKg7NwBV9aOpUsenMrzuxQgAwPxjCRS3A2s=",
+  "Source": "PaymentDetailsAPI",
+  "BasePath": "_content/PaymentDetailsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
