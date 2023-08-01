@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WHxMjTeKAttYrP4fvy6m/sEkhQh2ax14V2O+F28SRz9hB73qOMbkW9LsJU1qIZLMILRP2IEMxpkRg9zUBsk4dQ==",
+  "dgSpecHash": "MXHPitZNdmYsygzA0zdXv1MXMjruXEhJeV4IaBwV8oY+vx9ow/TSKatYrI2iwOiPTmYw8xE98wVZI2UIlNIoaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gasto\\source\\repos\\angular_aspnet\\PaymentDetailsAPI\\PaymentDetailsAPI\\PaymentDetailsAPI.csproj",
+  "projectFilePath": "C:\\Users\\gasto\\source\\repos\\angularaspnet\\PaymentDetailsAPI\\PaymentDetailsAPI\\PaymentDetailsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gasto\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gasto\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

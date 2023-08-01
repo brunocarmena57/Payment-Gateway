@@ -11455,11 +11455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gasto\\source\\repos\\angular_aspnet\\PaymentDetailsAPI\\PaymentDetailsAPI\\PaymentDetailsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\gasto\\source\\repos\\angularaspnet\\PaymentDetailsAPI\\PaymentDetailsAPI\\PaymentDetailsAPI.csproj",
       "projectName": "PaymentDetailsAPI",
-      "projectPath": "C:\\Users\\gasto\\source\\repos\\angular_aspnet\\PaymentDetailsAPI\\PaymentDetailsAPI\\PaymentDetailsAPI.csproj",
+      "projectPath": "C:\\Users\\gasto\\source\\repos\\angularaspnet\\PaymentDetailsAPI\\PaymentDetailsAPI\\PaymentDetailsAPI.csproj",
       "packagesPath": "C:\\Users\\gasto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gasto\\source\\repos\\angular_aspnet\\PaymentDetailsAPI\\PaymentDetailsAPI\\obj\\",
+      "outputPath": "C:\\Users\\gasto\\source\\repos\\angularaspnet\\PaymentDetailsAPI\\PaymentDetailsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gasto\\AppData\\Roaming\\NuGet\\NuGet.Config",
