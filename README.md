@@ -1,1 +1,0 @@
-"# .NET-Payment-API-Angular" 
